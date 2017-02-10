@@ -1,0 +1,2495 @@
+<!doctype html>
+<html>
+ <head>
+  <meta charset="UTF-8">
+  <title>index</title>
+  <link rel="stylesheet" href="css/index.css">
+ </head>
+ <body>
+  <!--导航条nav-->
+  <div class="nav">
+		<ul class="nav_top">
+			<li class="pic_logo">
+				<a href="#"></a>
+			</li>
+			<li class="pic_middle">
+				<a href="#"><img src="imgs/nav_top2.jpg"/></a>
+			</li>
+			<div class="middle_down">
+				<a href="#"><img src="imgs/nav_top.jpg"></a>
+			</div>
+			<li class="nav_title">
+				<h3>腾讯游戏排行榜
+					<span></span>
+				</h3>	
+			</li>
+			<div class="dropdown_box clearfix">
+					<div class="menu_box fl">
+						<div class="menu_title clearfix">
+							<h3 class="fl">新游排行榜</h3>
+							<span class="fr">更多&gt;&gt;</span>
+						</div>
+						<ul>
+							<li class="box_hd clearfix">
+								<span class="fl">排名</span>
+								<span class="fl">游戏</span>
+							</li>
+							<li>
+								<i class="color">1</i>
+								<div class="game_name">
+									<a href=""></a>
+									<div class="game_cover">
+										<img src="imgs/t7-2.jpg"/>
+										<p>
+											<a class="fl" href="#">
+												<i class="icon_home"></i>
+												进入官网
+											</a>
+											<a class="fr" href="#">
+												<i class="icon_download"></i>
+												下载游戏
+											</a>
+										</p>
+									</div>
+								</div>
+							</li>
+							<li>
+								<i class="color">2</i>
+								<span>战争雷霆</span>
+							</li>
+							<li>
+								<i class="color">3</i>
+								<span>冒险岛2</span>
+							</li>
+							<li>
+								<i>4</i>
+								<span>勇者大冒险</span>
+							</li>
+							<li>
+								<i>5</i>
+								<span>兽人必须死</span>
+							</li>
+							<li>
+								<i>6</i>
+								<span>火源计划</span>
+							</li>
+							<li>
+								<i>7</i>
+								<span>流放之路</span>
+							</li>
+							<li>
+								<i>8</i>
+								<span>全职大师</span>
+							</li>
+							<li>
+								<i>9</i>
+								<span>刀锋铁骑</span>
+							</li>
+							<li>
+								<i>10</i>
+								<span>蛇蛇争霸</span>
+							</li>
+						</ul>
+					</div>
+					<div class="menu_box fl">
+						<div class="menu_title clearfix">
+							<h3 class="fl">新游排行榜</h3>
+							<span class="fr">更多&gt;&gt;</span>
+						</div>
+						<ul>
+							<li class="box_hd clearfix">
+								<span class="fl">排名</span>
+								<span class="fl">游戏</span>
+							</li>
+							<li>
+								<i class="color">1</i>
+								<div class="game_name">
+									<a href=""></a>
+									<div class="game_cover">
+										<img src="imgs/t7-2.jpg"/>
+										<p>
+											<a class="fl" href="#">
+												<i class="icon_home"></i>
+												进入官网
+											</a>
+											<a class="fr" href="#">
+												<i class="icon_download"></i>
+												下载游戏
+											</a>
+										</p>
+									</div>
+								</div>
+							</li>
+							<li>
+								<i class="color">2</i>
+								<span>战争雷霆</span>
+							</li>
+							<li>
+								<i class="color">3</i>
+								<span>冒险岛2</span>
+							</li>
+							<li>
+								<i>4</i>
+								<span>勇者大冒险</span>
+							</li>
+							<li>
+								<i>5</i>
+								<span>兽人必须死</span>
+							</li>
+							<li>
+								<i>6</i>
+								<span>火源计划</span>
+							</li>
+							<li>
+								<i>7</i>
+								<span>流放之路</span>
+							</li>
+							<li>
+								<i>8</i>
+								<span>全职大师</span>
+							</li>
+							<li>
+								<i>9</i>
+								<span>刀锋铁骑</span>
+							</li>
+							<li>
+								<i>10</i>
+								<span>蛇蛇争霸</span>
+							</li>
+						</ul>
+					</div>
+					<div class="menu_box fl">
+						<div class="menu_title clearfix">
+							<h3 class="fl">新游排行榜</h3>
+							<span class="fr">更多&gt;&gt;</span>
+						</div>
+						<ul>
+							<li class="box_hd clearfix">
+								<span class="fl">排名</span>
+								<span class="fl">游戏</span>
+							</li>
+							<li>
+								<i class="color">1</i>
+								<div class="game_name">
+									<a href=""></a>
+									<div class="game_cover">
+										<img src="imgs/t7-2.jpg"/>
+										<p>
+											<a class="fl" href="#">
+												<i class="icon_home"></i>
+												进入官网
+											</a>
+											<a class="fr" href="#">
+												<i class="icon_download"></i>
+												下载游戏
+											</a>
+										</p>
+									</div>
+								</div>
+							</li>
+							<li>
+								<i class="color">2</i>
+								<span>战争雷霆</span>
+							</li>
+							<li>
+								<i class="color">3</i>
+								<span>冒险岛2</span>
+							</li>
+							<li>
+								<i>4</i>
+								<span>勇者大冒险</span>
+							</li>
+							<li>
+								<i>5</i>
+								<span>兽人必须死</span>
+							</li>
+							<li>
+								<i>6</i>
+								<span>火源计划</span>
+							</li>
+							<li>
+								<i>7</i>
+								<span>流放之路</span>
+							</li>
+							<li>
+								<i>8</i>
+								<span>全职大师</span>
+							</li>
+							<li>
+								<i>9</i>
+								<span>刀锋铁骑</span>
+							</li>
+							<li>
+								<i>10</i>
+								<span>蛇蛇争霸</span>
+							</li>
+						</ul>
+					</div>
+				</div>
+		</ul>
+  </div>
+  <!--容器container-->
+  <div class="container">
+		<a></a>
+		<!--上面导航条-->
+		<div class="top_header"></div>
+		<!--头部中间（logo+文字列表）-->
+		<div class="main_header">
+			<!--logo-->
+			<a></a>
+			<!--文字列表-->
+			<ul class="middle_header">
+				<li class="first_title">
+					<a href="">
+						<i>官网首页</i>
+						<b>HOME</b>
+					</a>
+				</li>
+				<li>
+					<a href="">
+						<i>游戏资料</i>
+						<b>GAME INFO</b>
+					</a>
+					<div class="down_list">
+						<a href="">新手指引</a>
+						<a href="">王者学院</a>
+					</div>
+				</li>
+				<li>
+					<a href="">
+						<i>英雄介绍</i>
+						<b>INFORMATION</b>
+					</a>
+					<div class="down_list">
+						<a href="">新英雄</a>
+						<a href="">新皮肤</a>
+						<a href="">英雄列表</a>
+						<a href="">壁纸下载</a>
+					</div>
+				</li>
+				<li>
+					<a href="">
+						<i>视频中心</i>
+						<b>VIDEO</b>
+					</a>
+					<div class="down_list">
+						<a href="">赛事视频</a>
+						<a href="">热门英雄</a>
+						<a href="">解说视频</a>
+						<a href="">娱乐锦集</a>
+						<a href="">官方推荐</a>
+					</div>
+				</li>
+				<li>
+					<a href="">
+						<i>赛事中心</i>
+						<b>EVENTS</b>
+					</a>
+					<div class="down_list">
+						<a href="">KPL职业联赛</a>
+						<a href="">KOC王者城市赛</a>
+						<a href="">QGC夏季联赛</a>
+						<a href="">TGA大奖赛</a>
+						<a href="">WGC精英赛</a>
+						<a href="">王者高校赛</a>
+					</div>
+				</li>
+				<li>
+					<a href="">
+						<i>玩家互动</i>
+						<b>COMMUNITY</b>
+					</a>
+					<div class="down_list">
+						<a href="">官方论坛</a>
+						<a href="">手Q部落</a>
+						<a href="">官方公众号</a>
+						<a href="">微信圈子</a>
+						<a href="">官方微博</a>
+					</div>
+				</li>
+				<li>
+					<a href="">
+						<i>版本专区</i>
+						<b>VERSION AREA</b>
+					</a>
+					<div class="down_list">
+						<a href="">版本介绍</a>
+						<a href="">最新活动</a>
+						<a href="">故事站</a>
+					</div>
+				</li>
+				<li>
+					<a href="">
+						<i>客服服务</i>
+						<b>SERVICE</b>
+					</a>
+					<div class="down_list">
+						<a href="">客服专区</a>
+						<a href="">礼包兑换</a>
+					</div>
+				</li>
+			</ul>
+			<!--周免英雄和用户登录-->
+			<div class="info_box">
+				<!--周免英雄-->
+				<div class="hero_box">
+					<p>周免英雄(11月28日-12月04日)</p>
+					<ul class="hero_list">
+						<li class="free-li">
+							<a href=""><img data-id="152" src="imgs/152-freehover.png"></a>
+						</li>
+						<li class="free-li">
+							<a href=""><img data-id="173" src="imgs/173.jpg"></a>
+						</li>
+						<li class="free-li">
+							<a href=""><img data-id="108" src="imgs/108.jpg"></a>
+						</li>
+						<li class="free-li">
+							<a href=""><img data-id="139" src="imgs/139.jpg"></a>
+						</li>
+						<li class="free-li">
+							<a href=""><img data-id="153" src="imgs/153.jpg"></a>
+						</li>
+						<li class="free-li">
+							<a href=""><img data-id="121" src="imgs/121.jpg"></a>
+						</li>
+						<li class="free-li">
+							<a href=""><img data-id="168" src="imgs/168.jpg"></a>
+						</li>
+					</ul>
+					<a href="" class="hero_more">
+						更<br>多<br>英<br>雄<br>
+					</a>
+				</div>
+				<!--用户登录-->
+				<div class="login_box">
+					<!--图片-->
+					<a href="">
+						<img src="imgs/avatar1.jpg">
+						<span class="level_icon">0</span>
+					</a>
+					<!--登录前-->
+					<div class="before_login">
+						<p id="login" class="go_login">亲爱的召唤师,&nbsp;&nbsp;欢迎<a href="#">登录</a></p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!--登录弹出模态框-->
+		<div id="modal" class="modal">
+			<div class="modal_dialog">
+				<div class="modal_content">
+					<a class="close" href="#"></a>
+					<a class="weixin_login" href="#"></a>
+					<a class="qq_login" href="#"></a>
+				</div>
+			</div>
+		</div>
+		<!----banner主体---->
+		<div class="banner">
+			<!---广告模块---->
+			<div class="adv">
+				<!---广告轮播---->
+				<div class="adv_box">
+					<ul id="imgs"></ul>
+					<ul id="index-txt"></ul>
+				</div>
+				<!---中间的动图-->
+				<div class="middle_box">
+					<a href="#" class="first_box">
+						<i></i>
+						<b>英雄故事站</b>
+					</a>
+					<a href="#" class="two_box">
+						<i></i>
+						<b>新手专区</b>
+					</a>
+					<a href="#" class="three_box">
+						<i></i>
+						<b>体验专区</b>
+					</a>
+				</div>
+				<!---右边的图片-->
+				<div class="right_box">
+					<a href="#" class="download"></a>
+					<img src="imgs/code.jpg">
+					<p>手机扫码直接下载</p>
+				</div>
+			</div>
+			<!---视频中心---->
+			<div class="video">
+				<!---左边视频模块---->
+				<div class="video_left">
+					<!--左边视频模块上面的部分-->
+					<h2 class="title">
+						<p>
+							<i></i>
+							<b>视频中心</b>
+						</p>
+						<a href="" class="enter">进入视频中心</a>
+					</h2>
+					<!--最新视频具体内容-->
+					<div class="video_detail">
+						<!--视频头部文字列表-->
+						<ul class="video_hd">
+							<li><a  class="current">最新视频</a></li>
+							<li><a  href="#">赛事视频</a></li>
+							<li><a  href="#">热门英雄</a></li>
+							<li><a  href="#">解说视频</a></li>
+							<li><a  href="#">娱乐锦集</a></li>
+						</ul>
+						<!--5个视频-->
+						<div>
+							<!--1视频主体-->
+							<div class="video_bd">
+								<!--播放视频列表-->
+								<ul class="video_list">
+									<li>
+										<a href="video.html">
+											<img src="imgs/2.jpg">
+											<p class="video_txt">赛事周刊第12期KPL总决赛指南梦泪无痕上演偷家战</p>
+											<p class="video_count">
+												<b class="video_play">1万</b>
+												<i>2016-12-14</i>
+											</p>
+											<span class="mask"></span>
+											<span class="play"></span>
+										</a>
+									</li>
+									<li>
+										<a href="video.html">
+											<img src="imgs/1.jpg">
+											<p class="video_txt">【敌我时刻】第23期：装逼迟早遭雷劈</p>
+											<p class="video_count">
+												<b class="video_play">1543</b>
+												<i>2016-12-14</i>
+											</p>
+											<span class="mask"></span>
+											<span class="play"></span>
+										</a>
+									</li>
+									<li>
+										<a href="video.html">
+											<img src="imgs/3.jpg">
+											<p class="video_txt">牛魔5V5登场-由我来把你击飞把</p>
+											<p class="video_count">
+												<b class="video_play">1797</b>
+												<i>2016-12-14</i>
+											</p>
+											<span class="mask"></span>
+											<span class="play"></span>
+										</a>
+									</li>
+									<li>
+										<a href="video.html">
+											<img src="imgs/4.jpg">
+											<p class="video_txt">精彩top5 暴君英雄救美 极限操作集锦</p>
+											<p class="video_count">
+												<b class="video_play">1797</b>
+												<i>2016-12-14</i>
+											</p>
+											<span class="mask"></span>
+											<span class="play"></span>
+										</a>
+									</li>
+									<li>
+										<a href="video.html">
+											<img src="imgs/5.jpg">
+											<p class="video_txt">坑坑带你上王者：李白位移惊现BUG？</p>
+											<p class="video_count">
+												<b class="video_play">2078</b>
+												<i>2016-12-14</i>
+											</p>
+											<span class="mask"></span>
+											<span class="play"></span>
+										</a>
+									</li>
+									<li>
+										<a href="video.html">
+											<img src="imgs/6.jpg">
+											<p class="video_txt">孙悟空超神 大杀四方虐脆皮</p>
+											<p class="video_count">
+												<b class="video_play">1216</b>
+												<i>2016-12-14</i>
+											</p>
+											<span class="mask"></span>
+											<span class="play"></span>
+										</a>
+									</li>
+									<li>
+										<a href="video.html">
+											<img src="imgs/7.jpg">
+											<p class="video_txt">韩信逆风翻盘 偷塔流也有春天</p>
+											<p class="video_count">
+												<b class="video_play">1900</b>
+												<i>2016-12-14</i>
+											</p>
+											<span class="mask"></span>
+											<span class="play"></span>
+										</a>
+									</li>
+									<li>
+										<a href="video.html">
+											<img src="imgs/8.jpg">
+											<p class="video_txt">迷雾模式李白Gank25杀全攻略！</p>
+											<p class="video_count">
+												<b class="video_play">1330</b>
+												<i>2016-12-14</i>
+											</p>
+											<span class="mask"></span>
+											<span class="play"></span>
+										</a>
+									</li>
+								</ul>
+							</div>
+							<!--2视频主体-->
+							<div  class="video_bd video_hidden">
+								<!--播放视频列表-->
+								<ul class="video_list">
+									<li>
+										<a href="">
+											<img src="imgs/game_video/1.jpg">
+											<p class="video_txt">赛事周刊第12期KPL总决赛指南梦泪无痕上演偷家战</p>
+											<p class="video_count">
+												<b class="video_play">1万</b>
+												<i>2016-12-14</i>
+											</p>
+											<span class="mask"></span>
+											<span class="play"></span>
+										</a>
+									</li>
+									<li>
+										<a href="">
+											<img src="imgs/game_video/2.jpg">
+											<p class="video_txt">【敌我时刻】第23期：装逼迟早遭雷劈</p>
+											<p class="video_count">
+												<b class="video_play">1543</b>
+												<i>2016-12-14</i>
+											</p>
+											<span class="mask"></span>
+											<span class="play"></span>
+										</a>
+									</li>
+									<li>
+										<a href="">
+											<img src="imgs/game_video/3.jpg">
+											<p class="video_txt">牛魔5V5登场-由我来把你击飞把</p>
+											<p class="video_count">
+												<b class="video_play">1797</b>
+												<i>2016-12-14</i>
+											</p>
+											<span class="mask"></span>
+											<span class="play"></span>
+										</a>
+									</li>
+									<li>
+										<a href="">
+											<img src="imgs/game_video/4.jpg">
+											<p class="video_txt">精彩top5 暴君英雄救美 极限操作集锦</p>
+											<p class="video_count">
+												<b class="video_play">1797</b>
+												<i>2016-12-14</i>
+											</p>
+											<span class="mask"></span>
+											<span class="play"></span>
+										</a>
+									</li>
+									<li>
+										<a href="">
+											<img src="imgs/game_video/5.jpg">
+											<p class="video_txt">坑坑带你上王者：李白位移惊现BUG？</p>
+											<p class="video_count">
+												<b class="video_play">2078</b>
+												<i>2016-12-14</i>
+											</p>
+											<span class="mask"></span>
+											<span class="play"></span>
+										</a>
+									</li>
+									<li>
+										<a href="">
+											<img src="imgs/game_video/6.jpg">
+											<p class="video_txt">孙悟空超神 大杀四方虐脆皮</p>
+											<p class="video_count">
+												<b class="video_play">1216</b>
+												<i>2016-12-14</i>
+											</p>
+											<span class="mask"></span>
+											<span class="play"></span>
+										</a>
+									</li>
+									<li>
+										<a href="">
+											<img src="imgs/game_video/7.jpg">
+											<p class="video_txt">韩信逆风翻盘 偷塔流也有春天</p>
+											<p class="video_count">
+												<b class="video_play">1900</b>
+												<i>2016-12-14</i>
+											</p>
+											<span class="mask"></span>
+											<span class="play"></span>
+										</a>
+									</li>
+									<li>
+										<a href="">
+											<img src="imgs/game_video/8.jpg">
+											<p class="video_txt">迷雾模式李白Gank25杀全攻略！</p>
+											<p class="video_count">
+												<b class="video_play">1330</b>
+												<i>2016-12-14</i>
+											</p>
+											<span class="mask"></span>
+											<span class="play"></span>
+										</a>
+									</li>
+								</ul>
+							</div>
+							<!--3视频主体-->
+							<div  class="video_bd video_hidden">
+								<!--播放视频列表-->
+								<ul class="video_list">
+									<li>
+										<a href="">
+											<img src="imgs/hero/1.jpg">
+											<p class="video_txt">赛事周刊第12期KPL总决赛指南梦泪无痕上演偷家战</p>
+											<p class="video_count">
+												<b class="video_play">1万</b>
+												<i>2016-12-14</i>
+											</p>
+											<span class="mask"></span>
+											<span class="play"></span>
+										</a>
+									</li>
+									<li>
+										<a href="">
+											<img src="imgs/hero/2.jpg">
+											<p class="video_txt">【敌我时刻】第23期：装逼迟早遭雷劈</p>
+											<p class="video_count">
+												<b class="video_play">1543</b>
+												<i>2016-12-14</i>
+											</p>
+											<span class="mask"></span>
+											<span class="play"></span>
+										</a>
+									</li>
+									<li>
+										<a href="">
+											<img src="imgs/hero/3.jpg">
+											<p class="video_txt">牛魔5V5登场-由我来把你击飞把</p>
+											<p class="video_count">
+												<b class="video_play">1797</b>
+												<i>2016-12-14</i>
+											</p>
+											<span class="mask"></span>
+											<span class="play"></span>
+										</a>
+									</li>
+									<li>
+										<a href="">
+											<img src="imgs/hero/4.jpg">
+											<p class="video_txt">精彩top5 暴君英雄救美 极限操作集锦</p>
+											<p class="video_count">
+												<b class="video_play">1797</b>
+												<i>2016-12-14</i>
+											</p>
+											<span class="mask"></span>
+											<span class="play"></span>
+										</a>
+									</li>
+									<li>
+										<a href="">
+											<img src="imgs/hero/5.jpg">
+											<p class="video_txt">坑坑带你上王者：李白位移惊现BUG？</p>
+											<p class="video_count">
+												<b class="video_play">2078</b>
+												<i>2016-12-14</i>
+											</p>
+											<span class="mask"></span>
+											<span class="play"></span>
+										</a>
+									</li>
+									<li>
+										<a href="">
+											<img src="imgs/hero/6.jpg">
+											<p class="video_txt">孙悟空超神 大杀四方虐脆皮</p>
+											<p class="video_count">
+												<b class="video_play">1216</b>
+												<i>2016-12-14</i>
+											</p>
+											<span class="mask"></span>
+											<span class="play"></span>
+										</a>
+									</li>
+									<li>
+										<a href="">
+											<img src="imgs/hero/7.jpg">
+											<p class="video_txt">韩信逆风翻盘 偷塔流也有春天</p>
+											<p class="video_count">
+												<b class="video_play">1900</b>
+												<i>2016-12-14</i>
+											</p>
+											<span class="mask"></span>
+											<span class="play"></span>
+										</a>
+									</li>
+									<li>
+										<a href="">
+											<img src="imgs/hero/8.jpg">
+											<p class="video_txt">迷雾模式李白Gank25杀全攻略！</p>
+											<p class="video_count">
+												<b class="video_play">1330</b>
+												<i>2016-12-14</i>
+											</p>
+											<span class="mask"></span>
+											<span class="play"></span>
+										</a>
+									</li>
+								</ul>
+							</div>
+							<!--4视频主体-->
+							<div  class="video_bd video_hidden">
+								<!--播放视频列表-->
+								<ul class="video_list">
+									<li>
+										<a href="">
+											<img src="imgs/play_gather/1.jpg">
+											<p class="video_txt">赛事周刊第12期KPL总决赛指南梦泪无痕上演偷家战</p>
+											<p class="video_count">
+												<b class="video_play">1万</b>
+												<i>2016-12-14</i>
+											</p>
+											<span class="mask"></span>
+											<span class="play"></span>
+										</a>
+									</li>
+									<li>
+										<a href="">
+											<img src="imgs/play_gather/2.jpg">
+											<p class="video_txt">【敌我时刻】第23期：装逼迟早遭雷劈</p>
+											<p class="video_count">
+												<b class="video_play">1543</b>
+												<i>2016-12-14</i>
+											</p>
+											<span class="mask"></span>
+											<span class="play"></span>
+										</a>
+									</li>
+									<li>
+										<a href="">
+											<img src="imgs/play_gather/3.jpg">
+											<p class="video_txt">牛魔5V5登场-由我来把你击飞把</p>
+											<p class="video_count">
+												<b class="video_play">1797</b>
+												<i>2016-12-14</i>
+											</p>
+											<span class="mask"></span>
+											<span class="play"></span>
+										</a>
+									</li>
+									<li>
+										<a href="">
+											<img src="imgs/play_gather/4.jpg">
+											<p class="video_txt">精彩top5 暴君英雄救美 极限操作集锦</p>
+											<p class="video_count">
+												<b class="video_play">1797</b>
+												<i>2016-12-14</i>
+											</p>
+											<span class="mask"></span>
+											<span class="play"></span>
+										</a>
+									</li>
+									<li>
+										<a href="">
+											<img src="imgs/play_gather/5.jpg">
+											<p class="video_txt">坑坑带你上王者：李白位移惊现BUG？</p>
+											<p class="video_count">
+												<b class="video_play">2078</b>
+												<i>2016-12-14</i>
+											</p>
+											<span class="mask"></span>
+											<span class="play"></span>
+										</a>
+									</li>
+									<li>
+										<a href="">
+											<img src="imgs/play_gather/6.jpg">
+											<p class="video_txt">孙悟空超神 大杀四方虐脆皮</p>
+											<p class="video_count">
+												<b class="video_play">1216</b>
+												<i>2016-12-14</i>
+											</p>
+											<span class="mask"></span>
+											<span class="play"></span>
+										</a>
+									</li>
+									<li>
+										<a href="">
+											<img src="imgs/play_gather/7.jpg">
+											<p class="video_txt">韩信逆风翻盘 偷塔流也有春天</p>
+											<p class="video_count">
+												<b class="video_play">1900</b>
+												<i>2016-12-14</i>
+											</p>
+											<span class="mask"></span>
+											<span class="play"></span>
+										</a>
+									</li>
+									<li>
+										<a href="">
+											<img src="imgs/play_gather/8.jpg">
+											<p class="video_txt">迷雾模式李白Gank25杀全攻略！</p>
+											<p class="video_count">
+												<b class="video_play">1330</b>
+												<i>2016-12-14</i>
+											</p>
+											<span class="mask"></span>
+											<span class="play"></span>
+										</a>
+									</li>
+								</ul>
+							</div>
+							<!--5视频主体-->
+							<div  class="video_bd video_hidden">
+								<!--播放视频列表-->
+								<ul class="video_list">
+									<li>
+										<a href="">
+											<img src="imgs/talk_video/1.jpg">
+											<p class="video_txt">赛事周刊第12期KPL总决赛指南梦泪无痕上演偷家战</p>
+											<p class="video_count">
+												<b class="video_play">1万</b>
+												<i>2016-12-14</i>
+											</p>
+											<span class="mask"></span>
+											<span class="play"></span>
+										</a>
+									</li>
+									<li>
+										<a href="">
+											<img src="imgs/talk_video/2.jpg">
+											<p class="video_txt">【敌我时刻】第23期：装逼迟早遭雷劈</p>
+											<p class="video_count">
+												<b class="video_play">1543</b>
+												<i>2016-12-14</i>
+											</p>
+											<span class="mask"></span>
+											<span class="play"></span>
+										</a>
+									</li>
+									<li>
+										<a href="">
+											<img src="imgs/talk_video/3.jpg">
+											<p class="video_txt">牛魔5V5登场-由我来把你击飞把</p>
+											<p class="video_count">
+												<b class="video_play">1797</b>
+												<i>2016-12-14</i>
+											</p>
+											<span class="mask"></span>
+											<span class="play"></span>
+										</a>
+									</li>
+									<li>
+										<a href="">
+											<img src="imgs/talk_video/4.jpg">
+											<p class="video_txt">精彩top5 暴君英雄救美 极限操作集锦</p>
+											<p class="video_count">
+												<b class="video_play">1797</b>
+												<i>2016-12-14</i>
+											</p>
+											<span class="mask"></span>
+											<span class="play"></span>
+										</a>
+									</li>
+									<li>
+										<a href="">
+											<img src="imgs/talk_video/5.jpg">
+											<p class="video_txt">坑坑带你上王者：李白位移惊现BUG？</p>
+											<p class="video_count">
+												<b class="video_play">2078</b>
+												<i>2016-12-14</i>
+											</p>
+											<span class="mask"></span>
+											<span class="play"></span>
+										</a>
+									</li>
+									<li>
+										<a href="">
+											<img src="imgs/talk_video/6.jpg">
+											<p class="video_txt">孙悟空超神 大杀四方虐脆皮</p>
+											<p class="video_count">
+												<b class="video_play">1216</b>
+												<i>2016-12-14</i>
+											</p>
+											<span class="mask"></span>
+											<span class="play"></span>
+										</a>
+									</li>
+									<li>
+										<a href="">
+											<img src="imgs/talk_video/7.jpg">
+											<p class="video_txt">韩信逆风翻盘 偷塔流也有春天</p>
+											<p class="video_count">
+												<b class="video_play">1900</b>
+												<i>2016-12-14</i>
+											</p>
+											<span class="mask"></span>
+											<span class="play"></span>
+										</a>
+									</li>
+									<li>
+										<a href="">
+											<img src="imgs/talk_video/8.jpg">
+											<p class="video_txt">迷雾模式李白Gank25杀全攻略！</p>
+											<p class="video_count">
+												<b class="video_play">1330</b>
+												<i>2016-12-14</i>
+											</p>
+											<span class="mask"></span>
+											<span class="play"></span>
+										</a>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!---右边新闻模块---->
+				<div class="news_right">
+					<h2 class="title">
+						<p>
+							<i></i>
+							<b>新闻中心</b>
+						</p>
+						<a href="" class="enter">进入新闻中心</a>
+					</h2>
+					<div class="news_details">
+						<ul id="news-details-box" class="news_hd">
+							<li><a href="" class="current">热门</a></li>
+							<li><a href="">新闻</a></li>
+							<li><a href="">公告</a></li>
+							<li><a href="">活动</a></li>
+							<li><a href="">赛事</a></li>
+						</ul>
+					</div>
+					<!--5个新闻主体-->
+					<div>
+						<!--1新闻主体-->
+						<div class="news_kpl">
+							<ul class="news_list">
+								<li class="news_first">
+									<a href="">【KPL】让对抗来的更猛烈，看四强鹿死谁手！</a>
+								</li>
+								<li>
+									<a class="news_type" href="">新闻</a>
+									<a class="news_txt" href="">第一届英雄设计大赛获奖名单出炉！(附方案及策划点评)</a>
+									<b>11/29</b>
+								</li>
+								<li>
+									<a class="news_type" href="">赛事</a>
+									<a class="news_txt" href="">【KPL】当DL遭遇AG超玩会你更看好谁？</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">赛事</a>
+									<a class="news_txt" href="">【KPL】eStar.CatGod灵活走位扭转局势</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">赛事</a>
+									<a class="news_txt" href="">【KPL】冰锋战神一骑当先无痕关羽带领队伍以下克上</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">新闻</a>
+									<a class="news_txt" href="">12月02日16点iOS区服启动强制更新公告说明</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">新闻</a>
+									<a class="news_txt" href="">【KPL】亿万玩家创奇迹，总决赛门票10分钟秒完！</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">新闻</a>
+									<a class="news_txt" href="">【KPL】第二周前瞻：老牌劲旅荣耀新军谁能如愿晋级</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">赛事</a>
+									<a class="news_txt" href="">【KPL】季后赛首周数据说仙阁霸榜势不可挡！</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">赛事</a>
+									<a class="news_txt" href="">【KPL】季后赛首周最佳选手无痕出装看这里！</a>
+									<b>12/02</b>
+								</li>
+							</ul>
+						</div>
+						<!--2新闻主体-->
+						<div class="news_kpl video_hidden">
+							<ul class="news_list">
+								<li class="news_first">
+									<a href="">【KPL】让对抗来的更猛烈，看四强鹿死谁手！</a>
+								</li>
+								<li>
+									<a class="news_type" href="">新闻</a>
+									<a class="news_txt" href="">妲己宝宝情报站 ——局内优化抢先看，荣耀王者不是梦</a>
+									<b>11/29</b>
+								</li>
+								<li>
+									<a class="news_type" href="">赛事</a>
+									<a class="news_txt" href="">第二周观赛前瞻，2017年KPL春季赛·预选赛跨年来战！</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">赛事</a>
+									<a class="news_txt" href="">2017年KPL预选赛第一周惊艳落幕，惊喜远比期待的多！</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">赛事</a>
+									<a class="news_txt" href="">“我们的挑战”《王者荣耀》专集将开播，解说乱入明星狂追</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">新闻</a>
+									<a class="news_txt" href="">KPL春季预选赛12月25日前瞻</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">新闻</a>
+									<a class="news_txt" href="">《王者荣耀》“后羿”化身boss，对战薛之谦、黄晓明</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">新闻</a>
+									<a class="news_txt" href="">2017年KPL王者荣耀职业联赛春季赛-预选赛今日开战！</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">赛事</a>
+									<a class="news_txt" href="">《峡谷有毒》第21期：所以说，说话要说重点</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">赛事</a>
+									<a class="news_txt" href="">第一周观赛前瞻，KPL2017春季预选赛赛程公布！</a>
+									<b>12/02</b>
+								</li>
+							</ul>
+						</div>
+						<!--3新闻主体-->
+						<div class="news_kpl video_hidden">
+							<ul class="news_list">
+								<li class="news_first">
+									<a href="">【KPL】让对抗来的更猛烈，看四强鹿死谁手！</a>
+								</li>
+								<li>
+									<a class="news_type" href="">新闻</a>
+									<a class="news_txt" href="">【已开服】12月28日体验服停机更新公告</a>
+									<b>11/29</b>
+								</li>
+								<li>
+									<a class="news_type" href="">赛事</a>
+									<a class="news_txt" href="">12月27日全服不停机更新公告</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">赛事</a>
+									<a class="news_txt" href="">体验服花木兰bug问题说明</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">赛事</a>
+									<a class="news_txt" href="">妲己宝宝情报站—无限召唤！您的英雄池够深么？</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">新闻</a>
+									<a class="news_txt" href="">王者荣耀体验服改版公告</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">新闻</a>
+									<a class="news_txt" href="">妲己宝宝情报站—荣耀战区，谁才是朝阳区第一韩信？</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">新闻</a>
+									<a class="news_txt" href="">【已开服】12月19日体验服停机更新公告</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">赛事</a>
+									<a class="news_txt" href="">【KPL】季后赛首周数据说仙阁霸榜势不可挡！</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">赛事</a>
+									<a class="news_txt" href="">【KPL】季后赛首周最佳选手无痕出装看这里！</a>
+									<b>12/02</b>
+								</li>
+							</ul>
+						</div>
+						<!--4新闻主体-->
+						<div class="news_kpl video_hidden">
+							<ul class="news_list">
+								<li class="news_first">
+									<a href="">【KPL】让对抗来的更猛烈，看四强鹿死谁手！</a>
+								</li>
+								<li>
+									<a class="news_type" href="">新闻</a>
+									<a class="news_txt" href="">2亿玩家齐跨年，3天3夜嗨不停!</a>
+									<b>11/29</b>
+								</li>
+								<li>
+									<a class="news_type" href="">赛事</a>
+									<a class="news_txt" href="">【已结束】参与公众号逐梦狂欢周，貂蝉皮肤、李白手办等你拿！</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">赛事</a>
+									<a class="news_txt" href="">貂蝉KPL限定皮肤12月16日零点破空上架</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">赛事</a>
+									<a class="news_txt" href="">关注转发送祝福，王者壕礼送不停</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">新闻</a>
+									<a class="news_txt" href="">王者荣耀助手助力KPL 观赛享8重好礼！</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">新闻</a>
+									<a class="news_txt" href="">【KPL】亿万玩家创奇迹，总决赛门票10分钟秒完！</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">新闻</a>
+									<a class="news_txt" href="">【KPL】第二周前瞻：老牌劲旅荣耀新军谁能如愿晋级</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">赛事</a>
+									<a class="news_txt" href="">感恩节快乐，新版本更新福利放送！</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">赛事</a>
+									<a class="news_txt" href="">王者荣耀助手助力KPL 观赛享8重好礼！</a>
+									<b>12/02</b>
+								</li>
+							</ul>
+						</div>
+						<!--5新闻主体-->
+						<div class="news_kpl video_hidden">
+							<ul class="news_list">
+								<li class="news_first">
+									<a href="">【KPL】让对抗来的更猛烈，看四强鹿死谁手！</a>
+								</li>
+								<li>
+									<a class="news_type" href="">新闻</a>
+									<a class="news_txt" href="">第二周观赛前瞻，2017年KPL春季赛·预选赛跨年来战！</a>
+									<b>11/29</b>
+								</li>
+								<li>
+									<a class="news_type" href="">赛事</a>
+									<a class="news_txt" href="">2017年KPL预选赛第一周惊艳落幕，惊喜远比期待的多！</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">赛事</a>
+									<a class="news_txt" href="">“我们的挑战”《王者荣耀》专集将开播，解说乱入明星狂追</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">赛事</a>
+									<a class="news_txt" href="">KPL春季预选赛12月25日前瞻</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">新闻</a>
+									<a class="news_txt" href="">追梦赤子心！2017年KPL王者荣耀职业联赛春季赛-预选赛今日开战！</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">新闻</a>
+									<a class="news_txt" href="">见证KPL冠军--AS仙阁争霸之路 人人有奖一起分享！</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">新闻</a>
+									<a class="news_txt" href="">见证KPL冠军--AS仙阁争霸之路 人人有奖一起分享</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">赛事</a>
+									<a class="news_txt" href="">第一周观赛前瞻，KPL2017春季预选赛赛程公布！</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">赛事</a>
+									<a class="news_txt" href="">赛制公布！KPL2017赛季预选赛12月23日开战！</a>
+									<b>12/02</b>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!---赛事中心---->
+			<h2 class="title">
+				<p>
+					<i class="icon_game"></i>
+					<b>赛事中心</b>
+				</p>
+				<a class="enter" href="">进入赛事中心</a>
+			</h2>
+			<div class="info_intro">
+				<div class="game">
+					<img src="imgs/game.jpg">
+					<i>已结束</i>
+					<h2>KPL职业联赛</h2>
+					<h4>官方最高规格赛事</h4>
+					<h4>总奖金 185万</h4>
+					<a class="enter_btn" href="">进入专题</a>
+				</div>
+				<div class="game_box">
+					<ul class="game_hd">
+						<li><a class="current" href="#">KPL职业联赛第一季</a></li>
+						<li><a href="#">KOC王者城市赛</a></li>
+						<li><a href="#">TGA大奖赛</a></li>
+						<li><a href="#">QGC联赛</a></li>
+						<li><a href="#">WGC精英赛</a></li>
+						<li><a href="#">KCC王者冠军杯</a></li>
+					</ul>
+					<!--6个赛事中心的内容切换-->
+					<div>
+						<!--1主体内容-->
+						<div class="banner_box">
+							<ul class="news_list">
+								<li class="news_first">
+									<a href="">赛制公布！KPL2017赛季预选赛12月23日开战</a>
+								</li>
+								<li>
+									<a class="news_type" href="">官方</a>
+									<a class="news_txt" href="">KPL仙阁 3：2 AG超玩会 仙阁一举夺冠</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">官方</a>
+									<a class="news_txt" href="">天下为朕独尊 KPL完美嬴政铭文推荐</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">官方</a>
+									<a class="news_txt" href="">KPL最强打野 AG超玩会梦泪李白铭文推荐</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">官方</a>
+									<a class="news_txt" href="">KPL sViper输出的游走型姜子牙出装</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">官方</a>
+									<a class="news_txt" href="">KPL生死局XQ诺诺吕布出装推荐</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="#">官方</a>
+									<a class="news_txt" href="">经典偷家重现KPL 梦泪韩信出装解析</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">官方</a>
+									<a class="news_txt" href="">十步一杀 KPL梦泪李白出装解析</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">官方</a>
+									<a class="news_txt" href="">“我们的挑战”《王者荣耀》专集将开播，解说乱入明星狂追</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">官方</a>
+									<a class="news_txt" href="">KPL2017预选赛战队巡礼，12月23日揭幕战！</a>
+									<b>12/02</b>
+								</li>
+							</ul>
+							<ul class="video_list">
+								<li>
+									<a href="">
+										<img src="imgs/s1.jpg">
+										<p class="video_txt">【集锦】XQ 2-0 SC七杀露娜杀人如麻</p>
+										<p class="video_count">
+											<b class="video_play">3.7万</b>
+											<i>2016-12-14</i>
+										</p>
+										<span class="mask"></span>
+										<span class="play"></span>
+									</a>
+								</li>
+								<li>
+									<a href="">
+										<img src="imgs/s2.jpg">
+										<p class="video_txt">TOP10KPL总决赛 无痕露娜成就王者仙阁</p>
+										<p class="video_count">
+											<b class="video_play">7.4万</b>
+											<i>2016-12-14</i>
+										</p>
+										<span class="mask"></span>
+										<span class="play"></span>
+									</a>
+								</li>
+								<li>
+									<a href="">
+										<img src="imgs/s3.jpg">
+										<p class="video_txt">最佳击杀KPL总决赛 孙尚香伤害爆炸 豪取五杀</p>
+										<p class="video_count">
+											<b class="video_play">4.1万</b>
+											<i>2016-12-14</i>
+										</p>
+										<span class="mask"></span>
+										<span class="play"></span>
+									</a>
+								</li>
+								<li>
+									<a href="">
+										<img src="imgs/s4.jpg">
+										<p class="video_txt">最佳选手KPL总决赛 仙阁辰鬼率队夺得总冠军</p>
+										<p class="video_count">
+											<b class="video_play">1.6万</b>
+											<i>2016-12-14</i>
+										</p>
+										<span class="mask"></span>
+										<span class="play"></span>
+									</a>
+								</li>
+								<li>
+									<a href="">
+										<img src="imgs/s5.jpg">
+										<p class="video_txt">最佳战队KPL总决赛 一黑到底 仙阁拿下KPL首冠</p>
+										<p class="video_count">
+											<b class="video_play">9979</b>
+											<i>2016-12-14</i>
+										</p>
+										<span class="mask"></span>
+										<span class="play"></span>
+									</a>
+								</li>
+								<li>
+									<a href="">
+										<img src="imgs/s6.jpg">
+										<p class="video_txt">赛事综述KPL总决赛 王者诞生 仙阁冠绝顶峰</p>
+										<p class="video_count">
+											<b class="video_play">8.1万</b>
+											<i>2016-12-14</i>
+										</p>
+										<span class="mask"></span>
+										<span class="play"></span>
+									</a>
+								</li>
+							</ul>
+						</div>
+						<!--2主体内容-->
+						<div class="banner_box video_hidden">
+							<ul class="news_list">
+								<li class="news_first">
+									<a href="">【城市赛】第二届王者城市赛圆满落幕，YTG战队成功登顶冠军</a>
+								</li>
+								<li>
+									<a class="news_type" href="">KOC</a>
+									<a class="news_txt" href="">【城市赛】华西区域赛落下帷幕，将帅府、GK.携手晋级全国总决赛</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">KOC</a>
+									<a class="news_txt" href="">【城市赛成都站表情包】看DJ小乔指尖飞舞！</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">KOC</a>
+									<a class="news_txt" href="">【KOC】第二届王者城市赛决赛将启，六强争霸谁能问鼎冠军</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">KOC</a>
+									<a class="news_txt" href=""> 【王者城市赛】2016下半年王者城市赛赛事规则</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">KOC</a>
+									<a class="news_txt" href="">【城市赛】成都站明日开团，华西大区区域决赛周日决战蓉城！</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="#">KOC</a>
+									<a class="news_txt" href="">【城市赛西安站表情包】韩信应当如何出装？</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">KOC</a>
+									<a class="news_txt" href="">十步一杀 KPL梦泪李白出装解析</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">KOC</a>
+									<a class="news_txt" href="">【西安城市赛战报】刘邦、不知火舞笑傲长安城</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">官方</a>
+									<a class="news_txt" href="">【城市赛】城市王者海选成都收官，华西大区区域决赛压轴登场</a>
+									<b>12/02</b>
+								</li>
+							</ul>
+							<ul class="video_list">
+								<li>
+									<a href="">
+										<img src="imgs/koc/0.jpg">
+										<p class="video_txt">【集锦】XQ 2-0 SC七杀露娜杀人如麻</p>
+										<p class="video_count">
+											<b class="video_play">3.7万</b>
+											<i>2016-12-14</i>
+										</p>
+										<span class="mask"></span>
+										<span class="play"></span>
+									</a>
+								</li>
+								<li>
+									<a href="">
+										<img src="imgs/koc/1.jpg">
+										<p class="video_txt">TOP10KPL总决赛 无痕露娜成就王者仙阁</p>
+										<p class="video_count">
+											<b class="video_play">7.4万</b>
+											<i>2016-12-14</i>
+										</p>
+										<span class="mask"></span>
+										<span class="play"></span>
+									</a>
+								</li>
+								<li>
+									<a href="">
+										<img src="imgs/koc/2.jpg">
+										<p class="video_txt">最佳击杀KPL总决赛 孙尚香伤害爆炸 豪取五杀</p>
+										<p class="video_count">
+											<b class="video_play">4.1万</b>
+											<i>2016-12-14</i>
+										</p>
+										<span class="mask"></span>
+										<span class="play"></span>
+									</a>
+								</li>
+								<li>
+									<a href="">
+										<img src="imgs/koc/3.jpg">
+										<p class="video_txt">最佳选手KPL总决赛 仙阁辰鬼率队夺得总冠军</p>
+										<p class="video_count">
+											<b class="video_play">1.6万</b>
+											<i>2016-12-14</i>
+										</p>
+										<span class="mask"></span>
+										<span class="play"></span>
+									</a>
+								</li>
+								<li>
+									<a href="">
+										<img src="imgs/koc/4.jpg">
+										<p class="video_txt">最佳战队KPL总决赛 一黑到底 仙阁拿下KPL首冠</p>
+										<p class="video_count">
+											<b class="video_play">9979</b>
+											<i>2016-12-14</i>
+										</p>
+										<span class="mask"></span>
+										<span class="play"></span>
+									</a>
+								</li>
+								<li>
+									<a href="">
+										<img src="imgs/koc/5.jpg">
+										<p class="video_txt">赛事综述KPL总决赛 王者诞生 仙阁冠绝顶峰</p>
+										<p class="video_count">
+											<b class="video_play">8.1万</b>
+											<i>2016-12-14</i>
+										</p>
+										<span class="mask"></span>
+										<span class="play"></span>
+									</a>
+								</li>
+							</ul>
+						</div>
+						<!--3主体内容-->
+						<div class="banner_box video_hidden">
+							<ul class="news_list">
+								<li class="news_first">
+									<a href="">《王者荣耀》2016TGA秋季总决赛战报:JC电竞完胜夺魁</a>
+								</li>
+								<li>
+									<a class="news_type" href="">TGA</a>
+									<a class="news_txt" href="">【TGA】王者荣耀2016TGA秋季总决赛引爆开战，十万大奖花落谁家</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">TGA</a>
+									<a class="news_txt" href="">【TGA】王者荣耀TGA十月月赛落幕，JC电竞南京夺冠</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">TGA</a>
+									<a class="news_txt" href="">【TGA】十月第三周周赛前瞻，强力刺客如何打出爆强伤害</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">TGA</a>
+									<a class="news_txt" href="">《王者荣耀》TGA十月第二周周赛完结，B、C小组四强诞生</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">TGA</a>
+									<a class="news_txt" href="">【TGA】十月第二周赛事来袭，32支战队组团开战</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="#">TGA</a>
+									<a class="news_txt" href="">【TGA】十月第一周：JC电竞、海绵宝宝高歌晋级</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">TGA</a>
+									<a class="news_txt" href="">【TGA】九月第三周战报：辉耀战队、TS.Team入围月赛</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">TGA</a>
+									<a class="news_txt" href="">【TGA】九月第二周战报，B组、C组四强诞生</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">TGA</a>
+									<a class="news_txt" href="">《王者荣耀》TGA九月第一周战报，OG激进夺魁</a>
+									<b>12/02</b>
+								</li>
+							</ul>
+							<ul class="video_list">
+								<li>
+									<a href="">
+										<img src="imgs/tga/0.jpg">
+										<p class="video_txt">【集锦】XQ 2-0 SC七杀露娜杀人如麻</p>
+										<p class="video_count">
+											<b class="video_play">3.7万</b>
+											<i>2016-12-14</i>
+										</p>
+										<span class="mask"></span>
+										<span class="play"></span>
+									</a>
+								</li>
+								<li>
+									<a href="">
+										<img src="imgs/koc/1.jpg">
+										<p class="video_txt">TOP10KPL总决赛 无痕露娜成就王者仙阁</p>
+										<p class="video_count">
+											<b class="video_play">7.4万</b>
+											<i>2016-12-14</i>
+										</p>
+										<span class="mask"></span>
+										<span class="play"></span>
+									</a>
+								</li>
+								<li>
+									<a href="">
+										<img src="imgs/koc/2.jpg">
+										<p class="video_txt">最佳击杀KPL总决赛 孙尚香伤害爆炸 豪取五杀</p>
+										<p class="video_count">
+											<b class="video_play">4.1万</b>
+											<i>2016-12-14</i>
+										</p>
+										<span class="mask"></span>
+										<span class="play"></span>
+									</a>
+								</li>
+								<li>
+									<a href="">
+										<img src="imgs/koc/3.jpg">
+										<p class="video_txt">最佳选手KPL总决赛 仙阁辰鬼率队夺得总冠军</p>
+										<p class="video_count">
+											<b class="video_play">1.6万</b>
+											<i>2016-12-14</i>
+										</p>
+										<span class="mask"></span>
+										<span class="play"></span>
+									</a>
+								</li>
+								<li>
+									<a href="">
+										<img src="imgs/koc/4.jpg">
+										<p class="video_txt">最佳战队KPL总决赛 一黑到底 仙阁拿下KPL首冠</p>
+										<p class="video_count">
+											<b class="video_play">9979</b>
+											<i>2016-12-14</i>
+										</p>
+										<span class="mask"></span>
+										<span class="play"></span>
+									</a>
+								</li>
+								<li>
+									<a href="">
+										<img src="imgs/koc/5.jpg">
+										<p class="video_txt">赛事综述KPL总决赛 王者诞生 仙阁冠绝顶峰</p>
+										<p class="video_count">
+											<b class="video_play">8.1万</b>
+											<i>2016-12-14</i>
+										</p>
+										<span class="mask"></span>
+										<span class="play"></span>
+									</a>
+								</li>
+							</ul>
+						</div>
+						<!--4主体内容--> 
+						<div class="banner_box video_hidden">
+							<ul class="news_list">
+								<li class="news_first">
+									<a href="">“嗨电竞”职业升级！《王者荣耀》职业联赛下半年正式启动</a>
+								</li>
+								<li>
+									<a class="news_type" href="">QGC</a>
+									<a class="news_txt" href="">【QGC】夏季联赛总决赛热情来袭 8月28日引爆海南</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">QGC</a>
+									<a class="news_txt" href="">【TGA秋季赛】八月第二周战报：XQuest顺利晋级月赛</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">QGC</a>
+									<a class="news_txt" href="">【QGC夺冠之路】大师赛总决赛仙阁T展现王者姿态</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">QGC</a>
+									<a class="news_txt" href=""> 【采访】QGC大师赛复赛从未获胜过，但是我们将奋战到底！</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">QGC</a>
+									<a class="news_txt" href="">【视频】QGC夏季赛复赛第二周Top5集锦</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="#">QGC</a>
+									<a class="news_txt" href="">《王者荣耀》王者冠军杯A组战队采访：我们准备好了！</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">QGC</a>
+									<a class="news_txt" href="">十步一杀 KPL梦泪李白出装解析</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">QGC</a>
+									<a class="news_txt" href="">战斗吧，总冠军！《王者荣耀》暑期盛典将迎巅峰之战</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">QGC</a>
+									<a class="news_txt" href="">一分钟带你飞NO.30：王者荣耀QGC大热英雄-关羽</a>
+									<b>12/02</b>
+								</li>
+							</ul>
+							<ul class="video_list">
+								<li>
+									<a href="">
+										<img src="imgs/koc/0.jpg">
+										<p class="video_txt">【集锦】XQ 2-0 SC七杀露娜杀人如麻</p>
+										<p class="video_count">
+											<b class="video_play">3.7万</b>
+											<i>2016-12-14</i>
+										</p>
+										<span class="mask"></span>
+										<span class="play"></span>
+									</a>
+								</li>
+								<li>
+									<a href="">
+										<img src="imgs/ogc/1.jpg">
+										<p class="video_txt">TOP10KPL总决赛 无痕露娜成就王者仙阁</p>
+										<p class="video_count">
+											<b class="video_play">7.4万</b>
+											<i>2016-12-14</i>
+										</p>
+										<span class="mask"></span>
+										<span class="play"></span>
+									</a>
+								</li>
+								<li>
+									<a href="">
+										<img src="imgs/ogc/2.jpg">
+										<p class="video_txt">最佳击杀KPL总决赛 孙尚香伤害爆炸 豪取五杀</p>
+										<p class="video_count">
+											<b class="video_play">4.1万</b>
+											<i>2016-12-14</i>
+										</p>
+										<span class="mask"></span>
+										<span class="play"></span>
+									</a>
+								</li>
+								<li>
+									<a href="">
+										<img src="imgs/ogc/3.jpg">
+										<p class="video_txt">最佳选手KPL总决赛 仙阁辰鬼率队夺得总冠军</p>
+										<p class="video_count">
+											<b class="video_play">1.6万</b>
+											<i>2016-12-14</i>
+										</p>
+										<span class="mask"></span>
+										<span class="play"></span>
+									</a>
+								</li>
+								<li>
+									<a href="">
+										<img src="imgs/ogc/4.jpg">
+										<p class="video_txt">最佳战队KPL总决赛 一黑到底 仙阁拿下KPL首冠</p>
+										<p class="video_count">
+											<b class="video_play">9979</b>
+											<i>2016-12-14</i>
+										</p>
+										<span class="mask"></span>
+										<span class="play"></span>
+									</a>
+								</li>
+								<li>
+									<a href="">
+										<img src="imgs/ogc/5.jpg">
+										<p class="video_txt">赛事综述KPL总决赛 王者诞生 仙阁冠绝顶峰</p>
+										<p class="video_count">
+											<b class="video_play">8.1万</b>
+											<i>2016-12-14</i>
+										</p>
+										<span class="mask"></span>
+										<span class="play"></span>
+									</a>
+								</li>
+							</ul>
+						</div>
+						<!--5主体内容-->
+						<div class="banner_box video_hidden">
+							<ul class="news_list">
+								<li class="news_first">
+									<a href="">引领移动电竞时代 第二届WGC微信游戏精英赛王者杯22日开赛</a>
+								</li>
+								<li>
+									<a class="news_type" href="">WGC</a>
+									<a class="news_txt" href="">“嗨电竞”职业升级！《王者荣耀》职业联赛下半年正式启动</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">WGC</a>
+									<a class="news_txt" href="">《王者荣耀》王者冠军杯A组战队采访：我们准备好了！</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">WGC</a>
+									<a class="news_txt" href="">战斗吧，总冠军！《王者荣耀》暑期盛典将迎巅峰之战</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">WGC</a>
+									<a class="news_txt" href=""> 专访Aw闲云野鹤战队琴胆剑心解析韩信玩法</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">WGC</a>
+									<a class="news_txt" href="">【WGC】《王者荣耀》16进8 有了这样的队友 我也能够1v5！</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="#">WGC</a>
+									<a class="news_txt" href="">控制就是胜利《王者荣耀》WGC最强国家队推荐</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">WGC</a>
+									<a class="news_txt" href="">【WGC大数据】分析：5月份“王者杯”128进8数据</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">WGC</a>
+									<a class="news_txt" href="">【WGC战队赛】5月赛入围名单公布！最低王者13星！</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">WGC</a>
+									<a class="news_txt" href="">【WGC战队赛】5月赛32强战报：吕布与张飞的对话</a>
+									<b>12/02</b>
+								</li>
+							</ul>
+							<ul class="video_list">
+								<li>
+									<a href="">
+										<img src="imgs/wgc/0.jpg">
+										<p class="video_txt">【集锦】XQ 2-0 SC七杀露娜杀人如麻</p>
+										<p class="video_count">
+											<b class="video_play">3.7万</b>
+											<i>2016-12-14</i>
+										</p>
+										<span class="mask"></span>
+										<span class="play"></span>
+									</a>
+								</li>
+								<li>
+									<a href="">
+										<img src="imgs/wgc/1.jpg">
+										<p class="video_txt">TOP10KPL总决赛 无痕露娜成就王者仙阁</p>
+										<p class="video_count">
+											<b class="video_play">7.4万</b>
+											<i>2016-12-14</i>
+										</p>
+										<span class="mask"></span>
+										<span class="play"></span>
+									</a>
+								</li>
+								<li>
+									<a href="">
+										<img src="imgs/wgc/2.jpg">
+										<p class="video_txt">最佳击杀KPL总决赛 孙尚香伤害爆炸 豪取五杀</p>
+										<p class="video_count">
+											<b class="video_play">4.1万</b>
+											<i>2016-12-14</i>
+										</p>
+										<span class="mask"></span>
+										<span class="play"></span>
+									</a>
+								</li>
+								<li>
+									<a href="">
+										<img src="imgs/wgc/3.jpg">
+										<p class="video_txt">最佳选手KPL总决赛 仙阁辰鬼率队夺得总冠军</p>
+										<p class="video_count">
+											<b class="video_play">1.6万</b>
+											<i>2016-12-14</i>
+										</p>
+										<span class="mask"></span>
+										<span class="play"></span>
+									</a>
+								</li>
+								<li>
+									<a href="">
+										<img src="imgs/wgc/4.jpg">
+										<p class="video_txt">最佳战队KPL总决赛 一黑到底 仙阁拿下KPL首冠</p>
+										<p class="video_count">
+											<b class="video_play">9979</b>
+											<i>2016-12-14</i>
+										</p>
+										<span class="mask"></span>
+										<span class="play"></span>
+									</a>
+								</li>
+								<li>
+									<a href="">
+										<img src="imgs/wgc/5.jpg">
+										<p class="video_txt">赛事综述KPL总决赛 王者诞生 仙阁冠绝顶峰</p>
+										<p class="video_count">
+											<b class="video_play">8.1万</b>
+											<i>2016-12-14</i>
+										</p>
+										<span class="mask"></span>
+										<span class="play"></span>
+									</a>
+								</li>
+							</ul>
+						</div>
+						<!--6主体内容-->
+						<div class="banner_box video_hidden">
+							<ul class="news_list">
+								<li class="news_first">
+									<a href=""> eStar状态爆棚强势登顶!《王者荣耀》冠军杯冠军产生</a>
+								</li>
+								<li>
+									<a class="news_type" href="">KCC</a>
+									<a class="news_txt" href="">【总决赛战报】冠军杯暑期盛典总决赛战报</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">KCC</a>
+									<a class="news_txt" href="">王者荣耀冠军杯战报：四强淘汰赛</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">KCC</a>
+									<a class="news_txt" href="">一线情报传回！《王者荣耀》冠军杯暨暑期盛典现场照曝光</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">KCC</a>
+									<a class="news_txt" href=""> 不是王者不聚头！《王者荣耀》冠军杯四强出炉</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">KCC</a>
+									<a class="news_txt" href=""> 《王者荣耀》冠军杯总决赛今日开战 龙虎之争引爆终极悬念</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="#">KCC</a>
+									<a class="news_txt" href="">冠军杯暨暑期盛典今日开幕，最全观赛指南来了！</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">KCC</a>
+									<a class="news_txt" href=""> 冠军杯暨暑期盛典今日开幕，最全观赛指南来了！</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">KCC</a>
+									<a class="news_txt" href="">王者出征！《王者荣耀》冠军杯明日打响！</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">KCC</a>
+									<a class="news_txt" href="">【王者冠军杯】721-723赛程公布</a>
+									<b>12/02</b>
+								</li>
+							</ul>
+							<ul class="video_list">
+								<li>
+									<a href="">
+										<img src="imgs/kcc/0.png">
+										<p class="video_txt">【集锦】XQ 2-0 SC七杀露娜杀人如麻</p>
+										<p class="video_count">
+											<b class="video_play">3.7万</b>
+											<i>2016-12-14</i>
+										</p>
+										<span class="mask"></span>
+										<span class="play"></span>
+									</a>
+								</li>
+								<li>
+									<a href="">
+										<img src="imgs/kcc/1.jpg">
+										<p class="video_txt">TOP10KPL总决赛 无痕露娜成就王者仙阁</p>
+										<p class="video_count">
+											<b class="video_play">7.4万</b>
+											<i>2016-12-14</i>
+										</p>
+										<span class="mask"></span>
+										<span class="play"></span>
+									</a>
+								</li>
+								<li>
+									<a href="">
+										<img src="imgs/kcc/2.jpg">
+										<p class="video_txt">最佳击杀KPL总决赛 孙尚香伤害爆炸 豪取五杀</p>
+										<p class="video_count">
+											<b class="video_play">4.1万</b>
+											<i>2016-12-14</i>
+										</p>
+										<span class="mask"></span>
+										<span class="play"></span>
+									</a>
+								</li>
+								<li>
+									<a href="">
+										<img src="imgs/kcc/3.png">
+										<p class="video_txt">最佳选手KPL总决赛 仙阁辰鬼率队夺得总冠军</p>
+										<p class="video_count">
+											<b class="video_play">1.6万</b>
+											<i>2016-12-14</i>
+										</p>
+										<span class="mask"></span>
+										<span class="play"></span>
+									</a>
+								</li>
+								<li>
+									<a href="">
+										<img src="imgs/kcc/4.png">
+										<p class="video_txt">最佳战队KPL总决赛 一黑到底 仙阁拿下KPL首冠</p>
+										<p class="video_count">
+											<b class="video_play">9979</b>
+											<i>2016-12-14</i>
+										</p>
+										<span class="mask"></span>
+										<span class="play"></span>
+									</a>
+								</li>
+								<li>
+									<a href="">
+										<img src="imgs/kcc/5.jpg">
+										<p class="video_txt">赛事综述KPL总决赛 王者诞生 仙阁冠绝顶峰</p>
+										<p class="video_count">
+											<b class="video_play">8.1万</b>
+											<i>2016-12-14</i>
+										</p>
+										<span class="mask"></span>
+										<span class="play"></span>
+									</a>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!---王者学院---->
+			<div class="wang">
+				<h2 class="title clearfix">
+					<p>
+						<i class="icon_game"></i>
+						<b>王者学院</b>
+					</p>
+					<div class="form_hero fl">
+						<div class="search_box fl clearfix">
+							<input class="fl" type="text" placeholder="输入你想查询的英雄">
+							<a class="fl" href="#">
+								<i></i>
+							</a>
+						</div>
+						<a class="hero_list fl" href="#">英雄列表</a>
+					</div>
+					<a class="enter" href="">进入王者学院</a>
+				</h2>
+			</div>
+			<div class="clearfix">
+				<div class="left_box fl">
+					<div class="list_box clearfix">
+						<a class="fl" href="#">
+							<i class="icon1"></i>
+							铭文模拟器
+						</a>
+						<a class="fl" href="#">
+							<i class="icon2"></i>
+							局内道具
+						</a>
+						<a class="fl" href="#">
+							<i class="icon3"></i>
+							王牌栏目
+						</a>
+						<a class="fl" href="#">
+							<i class="icon4"></i>
+							我要投稿
+						</a>
+					</div>
+					<p>专题精选</p>
+					<div class="list_pic clearfix">
+						<a class="fl" href=""><img src="imgs/pic1.jpg"></a>
+						<a class="fl pic" href=""><img src="imgs/pic2.jpg"></a>
+						<a class="fl pic" href=""><img src="imgs/pic3.jpg"></a>
+					</div>
+				</div>
+				<div class="news_right_box fr">
+					<ul id="news-right-box" class="news_hd clearfix">
+						<li><a href="#" class="current">最新</a></li>
+						<li><a href="#">英雄</a></li>
+						<li><a href="#">新手</a></li>
+						<li><a href="#">同人</a></li>
+						<li><a href="#">官方</a></li>
+					</ul>
+					<!--5个新闻主体-->
+					<div>
+						<!--1新闻主体-->
+						<div class="news-list-block">
+							<ul class="news_list">
+								<li class="news_first">
+									<a class="">【KPL】当DL遭遇AG超玩会你更看好谁？</a>
+								</li>
+								<li>
+									<a class="news_type" href="">KPL</a>
+									<a class="news_txt" href="">【KPL】Rxy、evildoer上演火星撞地球</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">KPL</a>
+									<a class="news_txt" href="">【KPL】深似海的英雄池 谁来针对"</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">KPL</a>
+									<a class="news_txt" href="">【KPL】不矜不伐，战队支柱Evildoer</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_txt" href="">英雄特殊技能克制分析，让你不再惧怕强势英雄</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_txt" href="">野怪BUFF合理分配，队友不再因BUFF生恨</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_txt" href="">【开黑指南】第五十一期开黑英雄搭配推荐</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_txt" href="">【王者也逗比】抽象派王者小清新力作</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_txt" href="">【王者也逗比】《你不上班行不行》王者荣耀版</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_txt" href="">【KPL】季后赛 AG超玩会 3-2 DL第2场</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_txt" href="">【王者也逗比】你最在意女英雄的什么？</a>
+									<b>12/02</b>
+								</li>
+							</ul>
+						</div>
+						<!--2新闻主体-->
+						<div class="news-list-block  video_hidden">
+							<ul class="news_list">
+								<li class="news_first">
+									<a class="">【KPL】当DL遭遇AG超玩会你更看好谁？</a>
+								</li>
+								<li>
+									<a class="news_type" href="">KPL</a>
+									<a class="news_txt" href="">【大话周免】12.19-12.25完美阵容搭配让你选择不再难</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">KPL</a>
+									<a class="news_txt" href="">【英雄锦囊】大唐的传奇神探-狄仁杰攻略</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_type" href="">KPL</a>
+									<a class="news_txt" href="">【英雄锦囊】驭敌于股掌之间-张良攻略</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_txt" href="">【英雄锦囊】鞍刀咆哮，一骑绝尘–关羽攻略</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_txt" href="">抓住控制就别想跑张良封神战争排位解析</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_txt" href="">【大话周免】12.5-12.11三国英雄邀你加入魏蜀大战</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_txt" href="">【英雄锦囊】神弓后羿修炼法则</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_txt" href="">【英雄锦囊】玉洁冰清-虞姬攻略</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_txt" href="">《王者荣耀》11.28-12.4限免阵容推荐</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_txt" href="">【大话周免】11.28-12.4男女搭配 团战必备</a>
+									<b>12/02</b>
+								</li>
+							</ul>
+						</div>
+						<!--3新闻主体-->
+						<div class="news-list-block video_hidden">
+							<ul class="news_list">
+								<li class="news_first">
+									<a class="">【KPL】当DL遭遇AG超玩会你更看好谁？</a>
+								</li>
+								<li>
+									<a class="news_txt" href=""> 六神装了怎么玩？讨论后期鞋子的取舍</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_txt" href="">降温啦：细数那些不怕冷的英雄皮肤</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_txt" href="">千万别学他们！这些英雄注孤生</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_txt" href="">【新手指南】到底谁打野？打野收益最大化</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_txt" href="">【盘点】那些令人目瞪口呆的奇葩死法</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_txt" href="">盘点那些让人强制位移的英雄</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_txt" href="">伐开心，让队友崩溃的失误瞬间</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_txt" href="">王者荣耀满满套路封神战争实力解析完美应对</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_txt" href=""> 猥琐鼻祖偷塔流使用细节介绍，逆风翻盘不再难</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_txt" href="">盘点《王者荣耀》令人心塞的套路</a>
+									<b>12/02</b>
+								</li>
+							</ul>
+						</div>
+						<!--4新闻主体-->
+						<div class="news-list-block video_hidden">
+							<ul class="news_list">
+								<li class="news_first">
+									<a class="">【KPL】当DL遭遇AG超玩会你更看好谁？</a>
+								</li>
+								<li>	
+									<a class="news_txt" href="">大河之剑入长安 轻歌纵酒诗百篇</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_txt" href="">【名师出坑徒】徒弟又和班主任怼上了</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_txt" href="">一场战争的时间 忘掉一个人</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_txt" href="">当我遇上其乐无穷的“神队友”</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_txt" href="">人家这么可爱，当然是…抠脚大汉</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_txt" href="">【王者小司机】来自徒弟的控诉</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_txt" href="">【小说】刺客信条兰陵王之一人一城</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_txt" href="">日上三竿 夫子的历史课</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_txt" href="">蓉城是我家，老爹最伟大——刘禅</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_txt" href="">【小说】孙悟空同人之大圣归来</a>
+									<b>12/02</b>
+								</li>
+							</ul>
+						</div>
+						<!--5新闻主体-->
+						<div class="news-list-block video_hidden">
+							<ul class="news_list">
+								<li class="news_first">
+									<a class="">【KPL】当DL遭遇AG超玩会你更看好谁？</a>
+								</li>
+								<li>
+									
+									<a class="news_txt" href="">基友恋人一起来战 好友关系玩法解析</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									
+									<a class="news_txt" href="">成就系统介绍 享受手握奖杯的快感</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									
+									<a class="news_txt" href="">雾里看花 迷雾模式玩法介绍">雾里看花 迷雾模式玩法介绍</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_txt" href="">英雄特殊技能克制分析，让你不再惧怕强势英雄</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_txt" href="">从游戏升华为信仰，强势英雄大盘点</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_txt" href=""> 排位赛全新玩法 五人排位介绍</a>
+									<b>12/02</b>
+								</li>
+								<li>
+									<a class="news_txt" href="">抽象派王者小清新力作</a>
+									<b>12/02</b>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+  </div>
+	<div class="footer_container">
+		<div class="footer">
+			<div class="footer_up clearfix">
+				<div class="footer_logo fl">
+					<a class="logo1 fl" href=""></a>
+					<a class="logo2 fl" href=""></a>
+				</div>
+				<div class="footer_pic fl">
+					<a href="#"><img src="imgs/spk.png"></a>
+					<a href="#"><img src="imgs/youjiu.png"></a>
+					<a href="#"><img src="imgs/mofang.png"></a>
+					<a href="#"><img src="imgs/youxiduo.png"></a>
+					<a href="#"><img src="imgs/1883.png"></a>
+					<a href="#"><img src="imgs/17173.png"></a>
+				</div>
+				<div class="footer_input fr">
+					<h3>合作媒体</h3>
+					<div class="input_box"><span></span></div>
+					<ul class="input_list">
+						<li><a href="#">52pk</a></li>
+						<li><a href="#">游久</a></li>
+						<li><a href="#">魔方网</a></li>
+						<li><a href="#">游戏多</a></li>
+						<li><a href="#">17173</a></li>
+						<li><a href="#">18183</a></li>
+						<li><a href="#">任玩堂</a></li>
+						<li><a href="#">口袋巴士</a></li>
+						<li><a href="#">掌游宝</a></li>
+						<li><a href="#">着迷网</a></li>
+						<li><a href="#">搞趣网</a></li>
+						<li><a href="#">多玩</a></li>
+						<li><a href="#">着迷网</a></li>
+						<li><a href="#">电玩巴士</a></li>
+						<li><a href="#">178</a></li>
+						<li><a href="#">易游</a></li>
+						<li><a href="#">玩略猫</a></li>
+						<li><a href="#">游民星空</a></li>
+						<li><a href="#">爱拍</a></li>
+						<li><a href="#">兔玩网</a></li>
+						<li><a href="#">游戏狗</a></li>
+						<li><a href="#">4399</a></li>
+						<li><a href="#">游戏园</a></li>
+					</ul>
+				</div>
+			</div>
+			<div class="footer_down clearfix">
+				<div class="down_left fl">
+					<p>温馨提示：本游戏适合18岁(含)以上玩家娱乐</p>
+					<ul class="clearfix">
+						<li class="fl">抵制不良游戏</li>
+						<li class="fl">拒绝盗版游戏</li>
+						<li class="fl">注意自我保护</li>
+						<li class="fl">谨防受骗上当</li>
+					</ul>
+					<ul class="clearfix">
+						<li class="fl">适度游戏益脑</li>
+						<li class="fl">沉迷游戏伤身</li>
+						<li class="fl">合理安排时间</li>
+						<li class="fl">享受健康生活</li>
+					</ul>
+				</div>
+				<div class="down_right fr">
+					<p>
+						<a href="#">腾讯互动娱乐</a> |
+						<a href="#">服务条款</a> |
+						<a href="#">广告服务</a> |
+						<a href="#">腾讯游戏招聘</a> |
+						<a href="#">腾讯游戏客服</a> |
+						<a href="#">游戏地图</a> |
+						<a href="#">游戏活动</a> |
+						<a href="#">商务合作</a> |
+						<a href="">网站导航</a>
+					</p>
+					<p>
+						<span>COPYRIGHT © 1998 – 2016 TENCENT. ALL RIGHTS RESERVED</span>
+						<a href="#">腾讯公司 版权所有</a>
+					</p>
+					<p>
+						<a href="#">粤网文[2014]0633-233号</a> |
+						<a href="#">文网游备字[2016]M-CSG 0059</a>
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- 下载游戏弹出框-->
+	<div id="down-game" class="modal down">
+		<div class="modal_dialog">
+			<div class="modal_con clearfix">
+				<div class="code fl">
+					<img src="imgs/code.png"/>
+				</div>
+				<div class="btn_list fl">
+					<a class="pc" href="#"></a>
+					<a class="ios" href="#"></a>
+					<a class="ad" href="#"></a>
+					<a class="sad" href="#"></a>
+				</div>
+				<a class="down_close fl" href="#"></a>
+			</div>
+		</div>
+	</div>
+	<!-- qq登录框-->
+	<div id="qq-modal" class="modal">
+		<div class="qq_modal_dialog">
+			<div class="qq_modal_content">
+				<form id="qq-login-form">
+					<h3>用户登录</h3>
+					<p class="alert">
+							请在此处输入您的注册信息
+					</p>
+					<div class="form-group">
+						<label class="control-label" for="uname">QQ号：</label>
+						<input class="form-control" name="uname" id="qq_uname" required autocomplete="off" autofocus>
+						<span class="help-block"></span>
+					</div>
+					<div class="form-group">
+						<label class="control-label" for="upwd">密码：</label>
+						<input class="form-control" type="password" name="upwd" id="qq_upwd" required autocomplete="off">
+						<span class="help-block"></span>
+					</div>
+					<div class="form-group">
+						<label class="control-label"></label>
+						<input id="qq-login" type="button" class="form-control success" value="登录"/>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+	<!-- 微信登录框-->
+	<div id="weixin-modal" class="modal">
+		<div class="weixin_modal_dialog">
+			<div class="weixin_modal_content">
+				<form id="weixin-login-form">
+					<h3>用户登录</h3>
+					<p class="alert">
+							请在此处输入您的注册信息
+					</p>
+					<div class="form-group">
+						<label class="control-label" for="uname">微信号：</label>
+						<input class="form-control" name="uname" id="weixin_uname" required autocomplete="off" autofocus>
+						<span class="help-block"></span>
+					</div>
+					<div class="form-group">
+						<label class="control-label" for="upwd">密码：</label>
+						<input class="form-control" type="password" name="upwd" id="weixin_upwd" required autocomplete="off">
+						<span class="help-block"></span>
+					</div>
+					<div class="form-group">
+						<label class="control-label"></label>
+						<input id="weixin-login" type="button" class="form-control success" value="登录"/>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+	<script src="js/jquery-1.11.3.js"></script>
+	<script src="js/index.js"></script>
+	<script src="js/main.js"></script>
+ </body>
+</html>

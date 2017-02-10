@@ -1,0 +1,334 @@
+.video_container{
+  width:1345px;
+  margin:0 auto;
+  min-height:500px;
+  background:url(../imgs/ny_con_bg.jpg) no-repeat center top;
+}
+.v_main{
+  width:1200px;
+  margin:0 auto;
+  padding:40px 0;
+}
+.v_main:after{
+	content:'';
+	display:block;
+	clear:both;
+}
+.index_back{
+  width:1200px;
+  height:20px;
+  line-height:20px;
+  margin-bottom:40px;
+  color:#464547;
+  margin-left:12px;
+}
+.index_back>i{
+  display:inline-block;
+  width:18px;
+  height:18px;
+  background:url(../imgs/sprite.png) no-repeat 0 -4px;
+  margin-right:10px;
+}
+.index_back>a{
+  text-decoration: underline;
+  color:#363636;
+  padding-right:10px;
+}
+/*视频详情*/
+.v_player{
+  width:750px;
+  height:510px;
+}
+.v_title_block{
+  width:750px;
+  height:56px;
+  line-height: 56px;
+}
+.v_title_block>.v_title{
+  font-size:20px;
+  font-weight:bold;
+  color:#000;
+}
+.v_title_block>.v_count>span{
+  font-size:14px;
+  color:#616161;
+}
+/*热门视频*/
+.v_fav{
+  width:420px;
+  height:400px;
+}
+.v_fav_title{
+  margin-bottom:5px;
+}
+.v_fav_title>span{
+  font-size:20px;
+  font-weight:bold;
+  height:26px;
+  line-height:26px;
+  color:#000;
+}
+.v_choice{
+  width:420px;
+  height:38px;
+
+}
+.v_choice>li{
+  width:140px;
+  height:30px;
+  line-height:30px;
+  text-align:center;
+  color:#272727;
+  font-weight:bold;
+  border-bottom:4px solid #d3d3d3;
+  cursor:pointer;
+  float:left;
+}
+.v_choice>li.active{
+  border-bottom:4px solid #3589dd;
+  color:#3589dd;
+}
+.v_choice_bd>li{
+  margin-top: 10px;
+  position: relative;
+
+}
+.v_choice_bd>li>b{
+  display:inline-block;
+  width:40px;
+  height:40px;
+  line-height:36px;
+  color:#1176DA;
+  font-size:38px;
+  position:absolute;
+  top:0;
+  left:0;
+}
+.v_choice_bd>li>b.circle{
+  font-size: 16px;
+  color:#000;
+  position:absolute;
+  top:-5px;
+  left:6px;
+}
+
+.v_choice_bd>li>a{
+  width:380px;
+  display:inline-block;
+  font-size:12px;
+  margin-left:40px;
+}
+.v_news_list>p{
+  color:#BBB;
+  margin-left:5px;
+}
+/*英雄模块*/
+.v_hero_box{
+  width:1200px;
+  height:180px;
+  border-bottom:4px solid #EDEDED;
+  margin-top:25px;
+
+}
+.v_hero_box>.v_hero_person{
+  width:410px;
+  height:152px;
+}
+.v_hero_box>.v_hero_person>a{
+  width:130px;
+  height:150px;
+  float:left;
+}
+.v_hero_box>.v_hero_person img{
+  width:130px;
+  height:150px;
+  border-radius: 5px;
+}
+.v_hero_box>.v_hero_person>.list_info{
+  width:230px;
+  height:149px;
+  padding-left:20px;
+}
+.v_hero_person>.list_info>li{
+  padding:10px 5px;
+  color:#616161;
+  font-size:16px;
+}
+.v_hero_person>.list_info>li>a{
+  display: block;
+  width:210px;
+  height:27px;
+  line-height: 27px;
+  color:#fff;
+  background: #2584E4;
+  border-radius: 5px;
+  text-align: center;
+}
+/**热门投稿**/
+.v_hero_box>.v_contribute{
+  width:788px;
+  height:184px;
+  overflow:hidden;
+	float:right;
+}
+.v_contribute>p{
+  width:788px;
+  height:30px;
+  line-height: 22px;
+  font-weight:bold;
+  color:#000;
+  font-size:14px;
+	margin-left:15px;
+}
+.v_contribute>ul{
+	float:right;
+}
+.v_contribute>ul:after{
+	content:'';
+	display:block;
+	clear:both;
+}
+.v_contribute>ul>li{
+  width:172px;
+  height:135px;
+  float:left;
+  overflow: hidden;
+  margin-left:15px;
+  margin-bottom:20px;
+  padding:5px;
+}
+.v_contribute>ul>li>.img_box{
+  width:172px;
+  height:135px;
+  overflow: hidden;
+  position:relative;
+}
+.v_contribute>ul>li>.img_box a{
+  color:#363636;
+}
+.v_contribute>ul>li>.img_box>a>img{
+  width:172px;
+  height:104px;
+  border-top-left-radius:5px;
+  border-top-right-radius:5px;
+}
+.img_info{
+  width:168px;
+  position:absolute;
+  top:79px;
+  left:0;
+  height:24px;
+  line-height: 23px;
+  color: #fff;
+  background: rgba(0,0,0,.4);
+  overflow:hidden;
+  padding:0 7px 0 4px;
+}
+.img_box>.img_text{
+  width:164px;
+  height:22px;
+  position:absolute;
+  top:110px;
+  left:0;
+  color:#616161;
+  font-weight:bold;
+  overflow:hidden;
+  padding:0 0 0 5px;
+}
+/*猜你喜欢*/
+.v_like{
+  width:1200px;
+  overflow:hidden;
+  padding-top:65px;
+
+}
+.v_like>.v_like_title{
+  width:1200px;
+  height:30px;
+  padding-bottom:40px;
+}
+.v_like_title>p>a img{
+  width:24px;
+  height:22px;
+  border-radius: 5px;
+}
+.v_like_title>p>span{
+  font-size:18px;
+  font-weight:bold;
+  color:#000;
+  height:22px;
+  line-height:22px;
+  margin-left:10px;
+}
+.v_like_bd>li{
+  width:185px;
+  height:165px;
+  float:left;
+  margin-right:15px;
+  overflow:hidden;
+}
+.v_like_bd>li .img_box a>img{
+  width:182px;
+  height:110px;
+  border-radius:5px;
+}
+.v_like_bd>li .img_box{
+  width:182px;
+  height:165px;
+  position:relative;
+  overflow:hidden;
+}
+.v_like_bd>li .img_box .img_info{
+  width:98%;
+  position:absolute;
+  top:86px;
+  left:0;
+  padding-right:2px;
+}
+.v_like_bd .img_text{
+  position:absolute;
+  top:110px;
+  left:6px;
+  height:40px;
+  padding:5px;
+  background: #fff;
+  color:#323235;
+  font-size:14px;
+}
+/*网友评论*/
+.v_comment{
+  width:1200px;
+  z-index:1000;
+}
+.v_comment_top{
+  height:25px;
+  font-size:18px;
+  font-family: Microsoft YaHei,Heiti SC;
+  margin-bottom:5px;
+}
+.v_comment_top p a{
+  font-size:12px;
+}
+.v_comment_top p .v_count{
+  color:#1A649D;
+}
+.v_comment_top p .v_tx{
+  color:#FF2968;
+  margin-right:18px;
+}
+.v_comment_top>.top_box{
+  border:1px solid #379BE9;
+  color:#2A2A2A;
+}
+.v_top_box>.comment_area{
+  padding-left:20px;
+  border-bottom:1px solid #ddd;
+  overflow:hidden;
+}
+.comment_area textarea{
+  width:100%;
+  height:60px;
+  border:0;
+  margin:0;
+  padding:0;
+}
